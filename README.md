@@ -30,7 +30,7 @@
 
 ## 💻Thanks to...
 
--Este projeto foi realizado com as instruções do [Mayk Brito](https://www.youtube.com/channel/UCkr-unKyg_SiEzUwUY_uluQ) 
+- Este projeto foi realizado com as instruções do [Mayk Brito](https://www.youtube.com/channel/UCkr-unKyg_SiEzUwUY_uluQ) 
 
 ---
 
